@@ -1,12 +1,3 @@
 ---
-    #Vorlage für manifest.yml
-
-  declared-services:
-    students-noSQLDB:  # [erforderlich]
-      label: NoSQL_IBM_P1 # [erforderlich] der tatsächliche Servicename von Marketplace
-      plan: Lite # [optional] bei dieser Angabe wird der deklarierte Service abgerufen. Andernfalls wird standardmäßig 'Free' oder 'free' verwendet.
-  applications:
-  - services
-    - students-noSQLDB
+applications:
     name: ibm_students
-    host: ibmp1
