@@ -15,8 +15,11 @@ apply plugin: 'spring-boot'
 apply plugin: 'io.spring.dependency-management'
 
 jar {
-    baseName = 'classmates-app'
-    version =  '0.1.0'
+    baseName="ibmp1"
+    version ="1.0"
+    manifest {
+        attributes 'Main-Class': 'classmates.cloudant.Application'
+    }
 }
 
 repositories {

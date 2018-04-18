@@ -1,3 +1,7 @@
 ---
+declared-services:
+    students-noSQLDB:
+    label: NoSQL_IBM_P1
+    plan: Lite
 applications:
     name: ibm_students
