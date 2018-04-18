@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cloudant:cloudant-spring-boot-starter:0.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-spring-boot-starter/0.0.2/93b0bc4d0ffbb062ce02a9c5a500f191daef4275/cloudant-spring-boot-starter-0.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-spring-boot-starter/0.0.2/e0dee1899e17fa9c02c61180555520a57998988d/cloudant-spring-boot-starter-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
