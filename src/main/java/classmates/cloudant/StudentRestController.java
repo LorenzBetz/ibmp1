@@ -5,7 +5,6 @@ import com.cloudant.client.api.model.IndexField;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import com.cloudant.client.api.model.Response;
-import socialreview.cloudant.Review;
 
 import java.util.List;
 
